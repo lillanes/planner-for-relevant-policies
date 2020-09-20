@@ -12,3 +12,4 @@ src/sas_plan
 src/search/.obj/
 src/search/Makefile.depend
 src/search/downward-release
+src/elapsed.time
