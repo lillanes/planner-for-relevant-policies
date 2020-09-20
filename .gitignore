@@ -1,0 +1,14 @@
+*.pyc
+src/human_policy.out
+src/output
+src/output.sas
+src/plan_numbers_and_cost
+src/policy.fsap
+src/policy.out
+src/preprocess/.obj/
+src/preprocess/Makefile.depend
+src/preprocess/preprocess
+src/sas_plan
+src/search/.obj/
+src/search/Makefile.depend
+src/search/downward-release
